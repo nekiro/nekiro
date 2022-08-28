@@ -5,14 +5,14 @@ My first experience with coding was in 2015, when I coded "full-afk" bots to col
 Few years later I started getting into C++, because of my hobby to create 2D MMORPG engine.</br>
 Nowadays I'm interested in back-end and front-end technologies of Node.js ecosystem.</br>
 
-### Skills
+## Skills
 [![Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,nextjs,prisma,react,express,bots,electron,html,jest&theme=light&perline=5)](https://github.com/nekiro)
 ## Other skills
 [![Other skills](https://skills.thijs.gg/icons?i=mysql,cpp,lua&theme=light)](https://github.com/nekiro)
 ## Tools
 [![Tools](https://skills.thijs.gg/icons?i=vscode,visualstudio,githubactions,linux,docker&theme=light)](https://github.com/nekiro)
 
-## Selected projects
+## Projects
 
 ##### Express.js MVC api implementing logic behind job tracker application
 https://github.com/nekiro/job-application-tracker-api
