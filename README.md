@@ -11,7 +11,7 @@ Interested in back-end and front-end technologies of node.js ecosystem.
 [![Tools](https://skills.thijs.gg/icons?i=vscode,visualstudio,githubactions,linux,docker&theme=light)]()
 
 ## Selected projects
-#
+
 ###### Express.js MVC api implementing logic behind job tracker application
 https://github.com/nekiro/job-application-tracker-api
 ###### Automatic Account Creator (AAC) for Open Tibia Servers written in Next.js
