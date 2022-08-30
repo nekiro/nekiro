@@ -1,9 +1,9 @@
 # Hi there 👋
 
-I'm Marcin, ex C++, Lua programmer, currently Node.js developer.</br>
+I'm Marcin, ex C++, Lua programmer.</br>
 Coding since 2015, first things that I coded were "full-afk" bots to collect items and gain experience in games.</br>
 Few years later I started getting into C++, because of my hobby to create 2D MMORPG engine.</br>
-Nowadays I'm interested in web development, back-end and front-end technologies.</br>
+Nowadays I'm interested in web development, back-end, front-end and testing technologies.</br>
 
 ## Skills
 [![Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,nextjs,prisma,react,express,bots,electron,html,jest&theme=light&perline=5)](https://github.com/nekiro)
