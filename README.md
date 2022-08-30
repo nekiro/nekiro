@@ -16,6 +16,8 @@ Nowadays I'm interested in web development, back-end, front-end and testing tech
 
 ##### Express.js MVC api implementing logic behind job tracker application
 https://github.com/nekiro/job-application-tracker-api
+##### Test suite for job application tracker api
+https://github.com/nekiro/job-application-tracker-tests
 ##### Automatic Account Creator (AAC) for Open Tibia Servers written in Next.js
 https://github.com/nekiro/shibaac
 ##### Electron qt .rcc file editor
