@@ -14,8 +14,8 @@ Nowadays I'm interested in web development, back-end, front-end and testing tech
 
 ## Projects
 
-##### E-scooter renting mobile app similar in functionaliy to the popular ones like Lime or Bolt. Written in React Native.
-https://github.com/nekiro/scooty-app
+##### E-scooter renting mobile app similar in functionaliy to the popular ones like Lime or Bolt. Created using Typescript and React Native.
+https://github.com/nekiro/scooty
 ##### Express.js MVC api implementing logic behind job tracker application
 https://github.com/nekiro/job-application-tracker-api
 ##### Test suite for job application tracker api
