@@ -16,18 +16,14 @@ Nowadays I'm interested in web development, back-end, front-end and testing tech
 
 ##### E-scooter renting mobile app similar in functionaliy to the popular ones like Lime or Bolt. Created using Typescript and React Native.
 https://github.com/nekiro/scooty
-##### Express.js MVC api implementing logic behind job tracker application
+##### Express.js MVC API implementing logic behind job tracker application
 https://github.com/nekiro/job-application-tracker-api
 ##### Test suite for job application tracker api
 https://github.com/nekiro/job-application-tracker-tests
-##### Automatic Account Creator (AAC) for Open Tibia Servers written in Next.js
-https://github.com/nekiro/shibaac
 ##### Electron qt .rcc file editor
 https://github.com/nekiro/Nekiro-Rcc-Editor
 ##### Discord music bot written in plain javascript
 https://github.com/nekiro/Foxy.dj
-##### React native app that makes use of job tracker api
-https://github.com/nekiro/job-application-tracker-mobile
 ##### League of Legends tool that lets you check your champion mastery points
 https://github.com/nekiro/Lol-Mastery-Checker
 ##### DL Library that allows to parse and export appearances from protobuf files.
