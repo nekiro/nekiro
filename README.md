@@ -24,6 +24,8 @@ https://github.com/nekiro/job-application-tracker-tests
 https://github.com/nekiro/Nekiro-Rcc-Editor
 ##### Discord music bot written in plain javascript
 https://github.com/nekiro/Foxy.dj
+##### 2D MMORPG Game Engine written in C++, long term contributor and team member
+https://github.com/otland/forgottenserver
 ##### League of Legends tool that lets you check your champion mastery points
 https://github.com/nekiro/Lol-Mastery-Checker
 ##### DL Library that allows to parse and export appearances from protobuf files.
