@@ -20,7 +20,7 @@ https://github.com/nekiro/scooty
 https://github.com/nekiro/job-application-tracker-api
 ##### Test suite for job application tracker api
 https://github.com/nekiro/job-application-tracker-tests
-##### Electron qt .rcc file editor
+##### Tool to edit and compile Qt resource files, written using typescript and react, running in electron
 https://github.com/nekiro/Nekiro-Rcc-Editor
 ##### Discord music bot written in plain javascript
 https://github.com/nekiro/Foxy.dj
