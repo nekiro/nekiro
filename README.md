@@ -23,6 +23,8 @@ https://github.com/nekiro/job-application-tracker-api
 https://github.com/nekiro/job-application-tracker-tests
 ##### Tool to edit and compile Qt resource files, written using typescript and react, running in electron
 https://github.com/nekiro/Nekiro-Rcc-Editor
+#### Web Crawler
+https://github.com/nekiro/web-crawler.git
 ##### Discord music bot written in plain javascript
 https://github.com/nekiro/Foxy.dj
 ##### 2D MMORPG Game Engine written in C++, long term contributor and team member
