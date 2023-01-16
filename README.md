@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Marcin, ex C++, Lua programmer.</br>
-Coding since 2015, first things that I coded were "full-afk" bots to collect items and gain experience in games.</br>
-Two years later I started getting into C++, because of my hobby to create 2D MMORPG engine.</br>
+I'm Marcin, mainly C++, Lua and Javascript (Typescript) programmer.</br>
+Coding since 2015, first things I coded were "full-afk" bots to collect items and gain experience in games.</br>
+Two years later I started getting into C++, because of my hobby to create 2D MMORPG server.</br>
 Nowadays I'm interested in web development, back-end, front-end and testing technologies.</br>
 I love to develop skills, learn things and figure out how they work.
 
