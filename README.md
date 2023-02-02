@@ -7,11 +7,11 @@ Nowadays I'm interested in web development, back-end, front-end and testing tech
 I love to develop skills, learn things and figure out how they work.
 
 ## Skills 🤓
-[![Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,nextjs,prisma,react,express,bots,electron,html,jest&theme=light&perline=5)](https://github.com/nekiro)
+[![Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,nextjs,prisma,react,express,bots,electron,html,jest,babel&theme=light&perline=5)](https://github.com/nekiro)
 ## Other skills :smirk:
 [![Other skills](https://skills.thijs.gg/icons?i=mysql,cpp,lua&theme=light)](https://github.com/nekiro)
 ## Tools
-[![Tools](https://skills.thijs.gg/icons?i=vscode,visualstudio,githubactions,linux,docker&theme=light)](https://github.com/nekiro)
+[![Tools](https://skills.thijs.gg/icons?i=vscode,visualstudio,githubactions,linux,docker,postman,rabbitmq&theme=light)](https://github.com/nekiro)
 
 ## Projects :sunglasses: 
 
