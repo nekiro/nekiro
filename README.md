@@ -7,7 +7,7 @@ Nowadays I'm interested in web development, back-end, front-end and testing tech
 I love to develop skills, learn things and figure out how they work.
 
 ## Skills 🤓
-[![Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,nextjs,prisma,react,express,bots,electron,html,jest,babel&theme=light&perline=5)](https://github.com/nekiro)
+[![Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,nextjs,prisma,react,express,nestjs,bots,electron,html,jest,babel&theme=light&perline=5)](https://github.com/nekiro)
 ## Other skills :smirk:
 [![Other skills](https://skills.thijs.gg/icons?i=mysql,cpp,lua,bash,cmake,git,githubactions&theme=light&perline=5)](https://github.com/nekiro)
 ## Tools
@@ -33,5 +33,8 @@ https://github.com/nekiro/Foxy.dj
 https://github.com/otland/forgottenserver
 ##### DL Library that allows to parse and export appearances from protobuf files.
 https://github.com/nekiro/ProtobufLib
+##### Emotion 98.3
+
+[![Emotion-banner](https://github.com/energywraith/energywraith/blob/main/assets/emotion.jpg?raw=true)](https://emotion.miami/)
 
 and [more...](https://github.com/nekiro?tab=repositories)
