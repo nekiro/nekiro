@@ -14,23 +14,22 @@ I love to develop skills, learn things and figure out how they work.
 [![Tools](https://skills.thijs.gg/icons?i=vscode,visualstudio,githubactions,linux,docker,postman,rabbitmq,gitlab,github,prometheus,grafana&theme=light&perline=5)](https://github.com/nekiro)
 
 ## Projects :sunglasses: 
+[E-scooter renting mobile app similar in functionaliy to the popular ones like Lime or Bolt. Created using Typescript and React Native.](https://github.com/nekiro/scooty)
 
-##### E-scooter renting mobile app similar in functionaliy to the popular ones like Lime or Bolt. Created using Typescript and React Native.
-https://github.com/nekiro/scooty
-##### Github Action for ssh automation
-https://github.com/nekiro/ssh-job
-##### Express.js MVC API implementing logic behind job tracker application
-https://github.com/nekiro/job-application-tracker-api
-##### Test suite for job application tracker api
-https://github.com/nekiro/job-application-tracker-tests
-##### Tool to edit and compile Qt resource files, written using typescript and react, running in electron
-https://github.com/nekiro/Nekiro-Rcc-Editor
-##### Discord music bot written in plain javascript
-https://github.com/nekiro/Foxy.dj
-##### 2D MMORPG Game Engine written in C++, long term contributor and team member
-https://github.com/otland/forgottenserver
-##### C++ Library allowing to parse and export appearances from protobuf files.
-https://github.com/nekiro/ProtobufLib
+[Github Action for ssh automation](https://github.com/nekiro/ssh-job)
+
+[Express.js MVC API implementing logic behind job tracker application](https://github.com/nekiro/job-application-tracker-api)
+
+[Test suite for job application tracker api](https://github.com/nekiro/job-application-tracker-tests)
+
+[Tool to edit and compile Qt resource files, written using typescript and react, running in electron](https://github.com/nekiro/Nekiro-Rcc-Editor)
+
+[Discord music bot written in plain javascript](https://github.com/nekiro/Foxy.dj)
+
+[2D MMORPG Game Engine written in C++, long term contributor and team member](https://github.com/otland/forgottenserver)
+
+[C++ Library allowing to parse and export appearances from protobuf files.](https://github.com/nekiro/ProtobufLib)
+
 ##### Emotion 98.3
 
 [![Emotion-banner](https://github.com/energywraith/energywraith/blob/main/assets/emotion.jpg?raw=true)](https://emotion.miami/)
