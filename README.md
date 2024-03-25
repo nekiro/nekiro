@@ -30,8 +30,6 @@ I love to develop skills, learn things and figure out how they work.
 
 [C++ Library allowing to parse and export appearances from protobuf files.](https://github.com/nekiro/ProtobufLib)
 
-[Github ssh action](https://github.com/nekiro/ssh-job)
-
 ##### Emotion 98.3
 
 [![Emotion-banner](https://github.com/energywraith/energywraith/blob/main/assets/emotion.jpg?raw=true)](https://emotion.miami/)
