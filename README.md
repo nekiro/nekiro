@@ -34,4 +34,7 @@ I love to develop skills, learn things and figure out how they work.
 
 [![Emotion-banner](https://github.com/energywraith/energywraith/blob/main/assets/emotion.jpg?raw=true)](https://emotion.miami/)
 
+#### Darkrest.Online
+[![Darkrest-banner](https://darkrest.online/_next/image?url=%2Flogo.png&w=256&q=75)](https://darkrest.online/)
+
 and [more...](https://github.com/nekiro?tab=repositories)
