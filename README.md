@@ -7,11 +7,11 @@ Nowadays I'm interested in web development, back-end, front-end and testing tech
 I love to develop skills, learn things and figure out how they work.
 
 ## Skills 🤓
-[![Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,nextjs,prisma,react,express,nestjs,bots,electron,html,jest,babel&theme=light&perline=5)](https://github.com/nekiro)
+[![Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,nextjs,prisma,react,express,nestjs,bots,electron,html,jest,babel&theme=light&perline=5)](https://github.com/nekiro)
 ## Other skills :smirk:
-[![Other skills](https://skills.thijs.gg/icons?i=mysql,cpp,lua,bash,cmake,git,githubactions&theme=light&perline=5)](https://github.com/nekiro)
+[![Other skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,cpp,lua,bash,cmake,git,githubactions&theme=light&perline=5)](https://github.com/nekiro)
 ## Tools
-[![Tools](https://skills.thijs.gg/icons?i=vscode,visualstudio,githubactions,linux,docker,postman,rabbitmq,gitlab,github,prometheus,grafana&theme=light&perline=5)](https://github.com/nekiro)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,githubactions,linux,docker,postman,rabbitmq,gitlab,github,prometheus,grafana&theme=light&perline=5)](https://github.com/nekiro)
 
 ## Projects :sunglasses: 
 [E-scooter renting mobile app similar in functionaliy to the popular ones like Lime or Bolt. Created using Typescript and React Native.](https://github.com/nekiro/scooty)
