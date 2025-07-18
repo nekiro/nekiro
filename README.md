@@ -1,10 +1,8 @@
 # Hi there 👋
 
-I'm Marcin, mainly C++, Lua and Javascript (Typescript) programmer.</br>
-Coding since 2015, first things I coded were "full-afk" bots to collect items and gain experience in games.</br>
-Two years later I started getting into C++, because of my hobby to create 2D MMORPG server.</br>
-Nowadays I'm interested in web development, back-end, front-end and testing technologies.</br>
-I love to develop skills, learn things and figure out how they work.
+I'm Marcin, a programmer who works primarily with C++, Lua, and JavaScript/TypeScript. I've been coding since 2015, starting out by creating automated bots for games - you know, the kind that would farm items and level up characters while you're away.
+
+A couple years in, I got hooked on C++ when I decided to tackle building a 2D MMORPG server as a hobby project. These days, I'm all about web development - whether it's backend, frontend, or testing. I genuinely enjoy diving deep into new technologies and understanding how things work under the hood.
 
 ## Skills 🤓
 [![Skills](https://go-skill-icons.vercel.app/api/icons?i=js,ts,nodejs,nextjs,prisma,react,express,nestjs,bots,electron,html,jest,babel&theme=light&perline=5)](https://github.com/nekiro)
