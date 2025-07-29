@@ -28,9 +28,9 @@ A couple years in, I got hooked on C++ when I decided to tackle building a 2D MM
 
 [C++ Library allowing to parse and export appearances from protobuf files.](https://github.com/nekiro/ProtobufLib)
 
-##### Emotion 98.3
+##### Vanture.Club
 
-[![Emotion-banner](https://github.com/energywraith/energywraith/blob/main/assets/emotion.jpg?raw=true)](https://emotion.miami/)
+[![Vanture-banner](https://github.com/energywraith/energywraith/blob/main/assets/emotion.jpg?raw=true)](https://vanture.club/)
 
 #### Darkrest.Online
 [![Darkrest-banner](https://darkrest.online/_next/image?url=%2Flogo.png&w=256&q=75)](https://darkrest.online/)
