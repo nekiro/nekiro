@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=nekiro)
+
 # Hi there 👋
 
 I'm Marcin, a programmer who works primarily with C++, Lua, and JavaScript/TypeScript. I've been coding since 2015, starting out by creating automated bots for games - you know, the kind that would farm items and level up characters while you're away.
