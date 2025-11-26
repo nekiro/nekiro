@@ -14,6 +14,8 @@ A couple years in, I got hooked on C++ when I decided to tackle building a 2D MM
 [![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,githubactions,linux,docker,postman,rabbitmq,gitlab,github,prometheus,grafana&theme=light&perline=5)](https://github.com/nekiro)
 
 ## Projects :sunglasses: 
+[2D MMORPG game in C++, Lua, Typescript and many more](https://darkrest.online/)
+
 [A zero-dependency TypeScript library for interacting with the Kick.com API.](https://github.com/nekiro/kick-api)
 
 [E-scooter renting mobile app similar in functionaliy to the popular ones like Lime or Bolt. Created using Typescript and React Native.](https://github.com/nekiro/scooty)
@@ -35,8 +37,5 @@ A couple years in, I got hooked on C++ when I decided to tackle building a 2D MM
 ##### Vanture.Club
 
 [![Vanture-banner](https://github.com/energywraith/energywraith/blob/main/assets/emotion.jpg?raw=true)](https://vanture.club/)
-
-#### Darkrest.Online
-[![Darkrest-banner](https://darkrest.online/_next/image?url=%2Flogo.png&w=256&q=75)](https://darkrest.online/)
 
 and [more...](https://github.com/nekiro?tab=repositories)
